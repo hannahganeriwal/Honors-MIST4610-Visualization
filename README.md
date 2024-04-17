@@ -3,8 +3,7 @@
 
 #### Tableau Workbook Included: "Honors Visualization MIST4610"
 
-Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal/MIST4610-Project-1--Group-6)
-
+Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal/Honors-MIST4610-Visualization)
 
 ## Describing your dataset and what data it contains:
 
